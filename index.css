@@ -1,0 +1,13 @@
+ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+li {
+    margin-bottom: 5px;
+}
+.sub-list {
+    display: none;
+}
+.sub-list.visible {
+    display: block;
+}
